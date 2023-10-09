@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Mariya Rashkova</h1>
 <h3 align="center">A passionate Front-end Developer from Bulgaria</h3>
 
