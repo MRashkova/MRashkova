@@ -2,14 +2,8 @@
 <h3 align="center">A Junior Front End Developer from Bulgaria</h3>
 
 - 🌱 I’m currently learning **React and TypeScript**
-
 - 💬 Ask me about **JavaScript, Node.js**
-
 - 📫 How to reach me **mrashkkova@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
